@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>cv</title>
+    <style type="text/css">
+        h1 {
+            text-align: center;
+        };
+
+    </style>
+</head>
+<body>
+    <h1>tugas cv</h1>
+    <table   align="center" bgcolor="#0000FF">
+        <tr>
+            <td rowspan="19" valign="top"><img src="aidil.jpeg" alt="foto profile" width="150px"></td>
+            <td>nama lengkap</td>
+            <td>:</td>
+            <td>Aidil zafuan</td>
+        </tr>
+        <tr>
+            <td>nama panggilan</td>
+            <td>:</td>
+            <td>Aidil</td>
+
+        </tr>
+        <tr>
+            <td>TTL</td>
+            <td>:</td>
+            <td>27,maret,1999</td>
+
+        </tr>
+        <tr>
+            <td>jenis kelamin</td>
+            <td>:</td>
+            <td><i>laki-laki</i></td>
+
+        </tr><tr>
+            <td>TB/BB</td>
+            <td>:</td>
+            <td>170<small>cm</small>/80<small>kg</small>  </td>
+
+        </tr><tr>
+            <td>agama</td>
+            <td>:</td>
+            <td> <em>Islam</em></td>
+
+        </tr><tr>
+            <td>Nomor Tel.Hp</td>
+            <td>:</td>
+            <td> <b>08226931564</b></td>
+
+        </tr>
+        <tr>
+            <td>email/sosmed</td>
+            <td>:</td>
+            <td>  <a href="mailto:aidilzauan2509@gmail.com" target="_blank">aidilzauan2509@gmail.com</a></td>
+        </tr>
+        <tr>
+            <td valign="top">Riwayat pendidikan</td>
+            <td valign="top">:</td>
+            <td>
+                <ul>
+                    <li>SD(2006-2011)</li>
+                    <li>SMP(2011-2014)</li>
+                    <li>SMA(2015-2018)</li>
+                    <li>KULIAH(sekarang)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">Hobi</td>
+            <td valign="top">:</td>
+            <td>
+                <ol>
+                    <li>FUTSAL</li>
+                    <li>belajar Editor</li>
+                </ol>
+            </td>
+        </tr><tr>
+            <td>Alamat rumah</td>
+            <td>:</td>
+            <td> <address>koto tengah semerap Kec.keliling danau(kerinci)</address></td>
+        </tr>
+        <tr>
+            <td>Alamat sekarang</td>
+            <td>:</td>
+            <td><address>jln.kenanga III,RT 05,kel.simpang IV sipin,kec.telanai pura</address></td>
+        </tr>
+        <tr>
+            <td>kata motivasi</td>
+            <td>:</td>
+            <td><q><strong>tetap semangat</strong></q></td>
+        </tr><tr>
+            <td>organisasi</td>
+            <td>:</td>
+            <td>Hipaseja(himpunan pemuda semerap jambi)</td>
+        </tr><tr>
+            <td valign="top">bidang keahlian</td>
+            <td valign="top">:</td>
+            <td>
+                <details>
+                    <summary>excel</summary>
+                </details>
+                <details>
+                    <summary>editor</summary>
+                </details>
+            </td>
+        </tr>
+        <tr>
+            <td>Golongan darah</td>
+            <td>:</td>
+            <td>O<sup>-</sup></td>
+        </tr><tr>
+            <td valign="top">saran</td>
+            <td valign="top">:</td>
+            <td>
+                <textarea>Saran untuk saya...</textarea>
+            </td>
+        </tr>
+        
+    </table>
+
+</body>
+</html>
